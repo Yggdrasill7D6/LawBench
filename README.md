@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Benchmarking Legal Knowledge of Large Language Models</h1> </center>
 <p align="center">
-   🌐 <a href="https://lawbench.opencompass.org.cn/home" target="_blank">Website</a> • 🤗 <a href="https://huggingface.co/opencompass" target="_blank">Hugging Face</a> • ⏬ <a href="https://github.com/open-compass/LawBench/tree/main/data" target="_blank">Data</a>
+   🤗 <a href="https://huggingface.co/opencompass" target="_blank">Hugging Face</a> • ⏬ <a href="https://github.com/open-compass/LawBench/tree/main/data" target="_blank">Data</a>
 </p>
 
 <p align="center">
